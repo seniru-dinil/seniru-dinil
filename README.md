@@ -8,34 +8,36 @@ I'm a passionate developer who loves turning ideas into reality through code. We
 - 📚 Lifelong learner, always exploring new technologies
 - 🤝 Open for collaboration on interesting projects
 
-## 🛠️ Tech Stack 
-### Frontend
-- HTML5, CSS3, JavaScript
-- Bootstrap 5
-- Tailwind CSS
-- React
-- TypeScript
-### Backend
-- Node
-- Express
-- Java
-### Database
-- MySql
-- MongoDB
+## 🛠️ Tech Stack
 
-### Design Patterns & Principles
-- Bento Grid Layout
-- Modern UI/UX Principles
-- Clean Code Architecture
-- 
-## 💼 Experience
+### Programming Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,python)](https://skillicons.dev)
 
-I specialize in developing:
-- Point of Sale (POS) Systems
-- E-commerce Platforms
-- Responsive Web Applications
-- Custom Business Solutions
+### Frontend Development
+[![Frontend Development](https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
+### Backend Development
+[![Backend Development](https://skillicons.dev/icons?i=nodejs,express,spring)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### Detailed Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # My GitHub Stats
 ![Seniru's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniru-dinil&show_icons=true&theme=radical)
@@ -58,11 +60,6 @@ Feel free to reach out if you want to:
 - Discuss technology
 - Talk about job opportunities
 - Just say hi! 
-
-## 🌱 Currently Learning
-- Angular
-- SpringBoot
-- Python
 
 ## 🎯 Future Goals
 - Contributing to open-source projects
