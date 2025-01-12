@@ -37,9 +37,14 @@ I specialize in developing:
 - Custom Business Solutions
 
 
-## 📊 GitHub Stats
+# My GitHub Stats
+![Seniru's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniru-dinil&show_icons=true&theme=radical)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+# Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seniru-dinil&layout=compact&theme=radical)
+
+# Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=seniru-dinil&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Let's Connect!
 
