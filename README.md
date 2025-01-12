@@ -71,4 +71,4 @@ Feel free to reach out if you want to:
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/seniru-dinil)
+⭐️ From https://github.com/seniru-dinil
