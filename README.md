@@ -22,6 +22,16 @@ I'm a passionate developer who loves turning ideas into reality through code. We
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
+### Version Control
+[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
+
+### API Testing Tools
+[![API Testing Tools](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+
+### IDEs & Editors
+[![IDEs](https://skillicons.dev/icons?i=vscode,idea,netbeans)](https://skillicons.dev)
+
 ### Detailed Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,6 +48,14 @@ I'm a passionate developer who loves turning ideas into reality through code. We
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 # My GitHub Stats
 ![Seniru's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniru-dinil&show_icons=true&theme=radical)
@@ -68,4 +86,4 @@ Feel free to reach out if you want to:
 
 ---
 
-⭐️ From https://github.com/seniru-dinil
+⭐️ From [https://github.com/seniru-dinil](https://github.com/seniru-dinil)
