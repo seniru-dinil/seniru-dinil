@@ -14,7 +14,7 @@ I'm a passionate developer who loves turning ideas into reality through code. We
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,python)](https://skillicons.dev)
 
 ### Frontend Development
-[![Frontend Development](https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+[![Frontend Development](https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Backend Development
 [![Backend Development](https://skillicons.dev/icons?i=nodejs,express,spring)](https://skillicons.dev)
@@ -23,7 +23,7 @@ I'm a passionate developer who loves turning ideas into reality through code. We
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### Version Control
-[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
+[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
 ### API Testing Tools
 [![API Testing Tools](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
@@ -38,20 +38,17 @@ I'm a passionate developer who loves turning ideas into reality through code. We
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
